@@ -65,10 +65,16 @@
 #   else:
 #     print(i)
 
+# not_held = [1916, 1940, 1944, 2020]
+
+# for olympic_year in range(1896, 2022, 4):
+#     if olympic_year not in not_held:
+#         print(olympic_year)
+
 # 5. Create a list of ten random numbers. Loop through your list and count the number of even numbers and the number of odd numbers.
 
 
-# randomlist = ["11", "21", "15", "47", "78"]
+# randomlist = ["11", "21", "15", "47", "78", "27", "52", "13", "9", "98"]
 # even = []
 # odd = []
 
@@ -122,15 +128,15 @@
 # 10. FizzBuzz – Write a program that prints the numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number and for multiples of five, print "Buzz". 
 #    For numbers which are multiples of both three and five, print "FizzBuzz".
 
-for each_number in range(1,101):
-  if each_number % 5 == 0 and each_number % 3 == 0:
-    print("FizzBuzz")  
-  elif each_number % 3 == 0:
-    print("Fizz")
-  elif each_number % 5 == 0:
-    print("Buzz")
-  else:
-    print(each_number)
+# for each_number in range(1,101):
+#   if each_number % 5 == 0 and each_number % 3 == 0:
+#     print("FizzBuzz")  
+#   elif each_number % 3 == 0:
+#     print("Fizz")
+#   elif each_number % 5 == 0:
+#     print("Buzz")
+#   else:
+#     print(each_number)
 
 #     ```
 #     1

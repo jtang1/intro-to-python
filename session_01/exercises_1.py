@@ -42,9 +42,9 @@
 
 
 # 2. Write code that prints the value of 5.7 subtracted from 3.4.
-# x = 5.7
-# y = 3.4
-# print(x-y)
+x = 5.7
+y = 3.4
+print(x-y)
 
 
 # 3. Write code that prints the value of 8 multiplied by 7.
@@ -64,4 +64,4 @@
 
 
 # 6. Write code that finds the value of 20 from `4 - 2 * 6 / 3 * 5`. Hint: you might need brackets.
-print((4-2)*6/3*5)
+# print((4-2)*6/3*5)
